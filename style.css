@@ -133,6 +133,37 @@ form
     border: none;
     cursor: pointer;
 } */
+.hire-button{
+    background-color:#ff0000 ;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.hire-button:hover{
+    background-color: #ff1493;
+}
+ a{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffc107;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: #ffa000 ;
+}
+ a:active{
+    background-color: #ff8f00;
+ }
+
+
 /* footer {
     
     
